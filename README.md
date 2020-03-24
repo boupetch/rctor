@@ -6,8 +6,10 @@
   * Docker
   
 ## Installation
-
-
+  
+```
+devtools::install_github("boupetch/rctor")
+```
 
 ## Usage
 
